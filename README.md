@@ -118,9 +118,6 @@ Feel free to fork this repo, open issues, or submit PRs. If you build new agents
 
 ## Connect with me
 
-*   [Medium](https://medium.com/@shahrukh0603)
-*   [LinkedIn](https://www.linkedin.com/in/shahrukh-khan-lisbon-mba/)
+*   [Shahrukh - Medium](https://medium.com/@shahrukh0603)
+*   [Shahrukh - LinkedIn](https://www.linkedin.com/in/shahrukh-khan-lisbon-mba/)
 
-
-*   [Medium](https://medium.com/@shahrukh0603)
-*   [LinkedIn](https://www.linkedin.com/in/shahrukh-khan-lisbon-mba/)
